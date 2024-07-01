@@ -2,7 +2,7 @@
 ### 프로젝트 개요
 
 <p align="center">
-  <img src="https://file.notion.so/f/f/04e846d6-857c-4ddd-aea7-9dab39f443b8/ab093b8d-ef46-49c6-a199-d63924122cda/Untitled.png?id=8cba53b9-056a-40dd-a220-4e229ae3e4db&table=block&spaceId=04e846d6-857c-4ddd-aea7-9dab39f443b8&expirationTimestamp=1717171200000&signature=NCPPWFO_pp0iQIuj2n7z4GgfCX6dir5iqPAvEcHVvTY&downloadName=Untitled.png" height=400>
+  <img src="/statics/main.png" height=400>
 </p>
 
 ### AI 챗봇 기반 심리 위로 서비스
@@ -51,7 +51,7 @@
 ---
 ### 아키텍처
 <p align="center">
-  <img src="https://file.notion.so/f/f/04e846d6-857c-4ddd-aea7-9dab39f443b8/33744e0c-7d72-4b91-ae58-f389725175d6/Untitled.png?id=649b67af-2824-4562-910f-5df85f12e266&table=block&spaceId=04e846d6-857c-4ddd-aea7-9dab39f443b8&expirationTimestamp=1717171200000&signature=-SsoF1E5ok5WbxaS28GpQbI-ZbOVdzjlYm7aRWda0_o&downloadName=Untitled.png" height=500>
+  <img src="/statics/architecture.png" height=500>
 </p>
 
 ---
